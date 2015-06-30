@@ -1,5 +1,5 @@
 CC=gcc
-CFLAGS=-pedantic -Wall -pedantic-errors -Wundef -Wstrict-prototypes  -Wmissing-declarations
+CFLAGS=-pedantic -Wall -pedantic-errors -Wundef -Wstrict-prototypes  -Wmissing-declarations -std=gnu11 -lm
 
 all: tis
 
