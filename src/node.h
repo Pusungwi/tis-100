@@ -23,7 +23,7 @@ typedef enum {
 
 typedef enum {
   NUMBER,
-  ADDRESS,
+  ADDRESS
 } LocationType;
 
 typedef enum {
